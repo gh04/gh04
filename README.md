@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gerardo.
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning mobile and web development.
-- 💞️ I’m looking to collaborate on a cause.
+- 👋 Hi, I’m Gerardo
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning mobile and web development
+- 💞️ I’m looking to collaborate for change
 - 📫 How to reach me: discord code22#9613
 
 <!---
